@@ -35,7 +35,7 @@
         "REDIS_PASSWORD": {
             "description": "Redis endpoint password, from redislabs.com",
             "value": ""
-        },
+        }
     },
     "formation": {
         "ultroid": {
