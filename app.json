@@ -41,6 +41,16 @@
             "value": "",
             "required": false
         },
+        "BOT_TOKEN": {
+            "description": "Bot token daal BSDK",
+            "value": ""
+            "required": true
+        },
+        "LOG_CHANNEL": {
+            "description": "Log Channel ki id Daal BC",
+            "value": ""
+            "required": true
+        },
         "HEROKU_APP_NAME": {
             "description": "Name of your Heroku app, given in the first blank on this page. To be added if deploying to heroku ONLY.",
             "value": "",
